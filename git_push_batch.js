@@ -31,7 +31,7 @@ for(let j=0;j<1;j++)
 	//for(let i=1;i<1000;i++)		// 1-1000 성공 13분 소요
 	//for(let i=1000;i<2000;i++)	// 1000-2000 20분 소요
 	//for(let i=2130;i<2446;i++)	// 
-	for(let i=1;i<2446;i++)	// 
+	for(let i=201;i<2446;i++)	// 
 	{	
 		if(i%200==0)
 			cmd2txt('git push -f');
